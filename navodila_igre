@@ -1,0 +1,7 @@
+Postavimo spletni strežnik, npr. XAMPP.
+
+Nato v direktorij, od XAMPP, ter v mapo htdocs
+prilepimo nevarnaVoznja.zip, odpakiramo paketke ter 
+zaženemo svoj spletni brskalnik. V brskalnik vpišemo
+localhost:{svoj port number}/nevarnaVoznja/nevarnaVoznja.html
+In že lahko uživamo v igranju igre.
